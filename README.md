@@ -3,7 +3,7 @@
 ### Summary:
 Project shows the machine learning life cycle using auto ML to find the best economic model and hyperparameters meeting certain business requirements then deployed using batch inferencing checking for data drift by looking at default of credit card clients from Taiwan in 2005 from UCI Machine Learning Repository: default of credit card clients Data Set. This project will go over the objectives listed below
 
-### Classification AutoML:
+### Classification AutoML Objectives:
 1. Inspect and Visualize data
 2. Set experiment to record all metrics in MLflow and a local JSON file
 3. Creating an AutoML function with hyperparameter optimization
