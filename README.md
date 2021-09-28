@@ -1,7 +1,7 @@
 # ML_Life_Cycle_Using_AutoML_With_Hyperparameter_Optimization_Focused_On_Costs_With_Data_Drift
 
 ### Summary:
-Project shows the machine learning life cycle using auto ML to find the best economic model and hyperparameters meeting certain business requirements then deployed using batch Inferencing checking for data drift by looking at default of credit card clients from Taiwan in 2005 from UCI Machine Learning Repository: default of credit card clients Data Set. This project will go over the objectives listed below
+Project shows the machine learning life cycle using auto ML to find the best economic model and hyperparameters meeting certain business requirements then deployed using batch inferencing checking for data drift by looking at default of credit card clients from Taiwan in 2005 from UCI Machine Learning Repository: default of credit card clients Data Set. This project will go over the objectives listed below
 
 ### Classification AutoML:
 1. Inspect and Visualize data
