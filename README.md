@@ -21,7 +21,7 @@ Project shows the machine learning life cycle using auto ML to find the best eco
 5. Saving the predictions and logging artifacts by creating a new experiment in mlflow
 
 ### Production and Scaling:
-1.	Dockerfile to create docker image for sharing with team or deploy on, HPC or the cloud or Kubernetes
+1.	Dockerfile to create docker image for sharing with team or deploy on, HPC, the cloud or Kubernetes
 
 
 ### Business Scenario:
