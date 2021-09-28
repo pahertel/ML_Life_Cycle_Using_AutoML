@@ -48,7 +48,7 @@ Train a sample of the training data to estimate which model and hyperparameters 
 		- docker run -p 8888:8888 <image_name>
 	- Then paste the URL in a browser
 
-### Libraries used:
+### Libraries Used:
 - Plotly and seaborn are used for visualization
 - Scipy for Two Sample Kolmogorov Smirnov Test
 - Pandas
@@ -58,17 +58,17 @@ Train a sample of the training data to estimate which model and hyperparameters 
 - Lime to explain individual predictions 
 
 
-## ROC Curve:
+# ROC Curve:
 ![image](https://user-images.githubusercontent.com/71287557/135013326-692a2972-85af-4e67-858d-ca9e11c6786f.png)
 
-## Confusion Matrix:
+# Confusion Matrix:
 ![image](https://user-images.githubusercontent.com/71287557/135013346-0cb48ada-0db5-479f-9fcf-f9601e3ad0fa.png)
 
-## Explainable AI using Random Forest for Global Predictions and LIME to Explain Individual Predictions:
+# Explainable AI using Random Forest for Global Predictions and LIME to Explain Individual Predictions:
 ![image](https://user-images.githubusercontent.com/71287557/135013370-779bb7cb-0d45-4b32-91f9-f391d2f70357.png)
 ![image](https://user-images.githubusercontent.com/71287557/135013383-10cfd7f8-be3e-43ae-9d6c-ac2f677962b5.png)
 
-## MLflow Experiments:
+# MLflow Experiments:
 ![image](https://user-images.githubusercontent.com/71287557/135013404-56196608-76c9-453a-95d7-79745358eed2.png)
 ![image](https://user-images.githubusercontent.com/71287557/135013416-578e9318-4d46-41a9-8c59-63b575364011.png)
 ![image](https://user-images.githubusercontent.com/71287557/135013431-242de8ff-0c9a-435c-b4c1-64d43a15680b.png)
